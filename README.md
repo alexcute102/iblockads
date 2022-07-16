@@ -1,7 +1,9 @@
-# iblockads-filter
-iBlockAds Filter List, one of the best filter lists for Ads blocking.
+# iBlockAds DNS - one of the best filters for Ads blocking.
+
+This's our configuration profile for [DNS over TLS](https://en.wikipedia.org/wiki/DNS_over_TLS).
 
 Homepage: https://iblockads.net/
+Server Name: dns.iblockads.net 
 
 | Name                      | Country | Notes                                                                                                                                   | Installation                                                                                                                                                                                                      |
 |---------------------------|---------|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
